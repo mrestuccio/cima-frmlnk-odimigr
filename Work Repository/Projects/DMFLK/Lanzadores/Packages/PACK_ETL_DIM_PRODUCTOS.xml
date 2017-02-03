@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="fR1TuiHTcL42gEOStCKVzg==" exportKeySalt="2aa21b2f-8f50-496e-a507-b09d9d31cfbd" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="3/Y9Kq+RVPtkiE/g2zttQg==" exportKeySalt="10cc2db6-1b9c-4833-8887-654a831193e8" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpPackage">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
-	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-02-03 10:08:41.0]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-02-03 11:26:16.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[cffe8c55-f8ae-4dcc-858d-03a318efc934]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
-	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[31]]></Field>
-	<Field name="IPackage" type="com.sunopsis.sql.DbInt"><![CDATA[47]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
+	<Field name="IPackage" type="com.sunopsis.sql.DbInt"><![CDATA[42]]></Field>
 	<Field name="IScBasePackage" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IScOrigPackage" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IScPackage" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IState" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITxtPack" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-02-03 10:08:41.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-02-03 13:14:24.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="OrdFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="PackName" type="java.lang.String"><![CDATA[Invocacion ETL_DIM_PRODUCTOS]]></Field>
+	<Field name="PackName" type="java.lang.String"><![CDATA[ETL_DIM_PRODUCTOS]]></Field>
 	<Field name="RepGuid" type="java.lang.String">null</Field>
 	<Field name="RepVersion" type="java.lang.String">null</Field>
 	<Field name="ScOrigPackageTag" type="java.lang.String">null</Field>
@@ -36,27 +36,27 @@
 	<Field name="DropSubscriber" type="java.lang.String">null</Field>
 	<Field name="ExtendJrn" type="java.lang.String">null</Field>
 	<Field name="ExtVersion" type="java.lang.String">null</Field>
-	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-02-03 10:08:42.0]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-02-03 11:26:16.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[93a022a3-59c2-497c-ab64-fa4552bbaecb]]></Field>
 	<Field name="HeightVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndLogMethod" type="java.lang.String"><![CDATA[Y]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="IDeploySpec" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapping" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="IPackage" type="com.sunopsis.sql.DbInt"><![CDATA[47]]></Field>
+	<Field name="IPackage" type="com.sunopsis.sql.DbInt"><![CDATA[42]]></Field>
 	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IScMapping" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IScPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IScTable" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IScTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ISmod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="IStep" type="com.sunopsis.sql.DbInt"><![CDATA[77]]></Field>
+	<Field name="IStep" type="com.sunopsis.sql.DbInt"><![CDATA[51]]></Field>
 	<Field name="ITable" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="ITxtAction" type="com.sunopsis.sql.DbInt"><![CDATA[1960]]></Field>
+	<Field name="ITxtAction" type="com.sunopsis.sql.DbInt"><![CDATA[861]]></Field>
 	<Field name="ITxtSubscribers" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITxtVarValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IVar" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -65,7 +65,7 @@
 	<Field name="KoNextStep" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="KoRetry" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="KoRetryInterv" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-02-03 10:08:42.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-02-03 13:14:24.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LockJrn" type="java.lang.String">null</Field>
 	<Field name="ModCod" type="java.lang.String">null</Field>
@@ -93,7 +93,7 @@
 	<Field name="EncKey" type="java.lang.String">null</Field>
  <Field name="EncKeyVect" type="java.lang.String">null</Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[e3a53689-036d-44b2-8a47-ed794de875b7]]></Field>
-	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[1960]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[861]]></Field>
 	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[121]]></Field>
 	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
  <Field name="Txt" type="java.lang.String"><![CDATA[OdiStartOwbJob "-WORKSPACE=FLK_OWB" "-LOCATION=FLKDW_DESA_LOCATION" "-OBJECT_NAME=ETL_DIM_PRODUCTOS" "-OBJECT_TYPE=PLSQLMAP"]]></Field>
@@ -106,21 +106,21 @@
 	<Field name="SnpsTable" type="java.lang.String"><![CDATA[SNP_STEP]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
-		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_FOLDER.31]]></Field>
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_FOLDER.12]]></Field>
 	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[a9d2c9f2-632d-4ed1-9182-135a9513f13a]]></Field>
- <Field name="RefObjFQName" type="java.lang.String"><![CDATA[DMFLK.First Folder]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[DMFLK.Lanzadores]]></Field>
  <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_FOLDER]]></Field>
- <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[5.12]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[5.10]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
-		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_PACKAGE.47]]></Field>
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_PACKAGE.42]]></Field>
 	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[cffe8c55-f8ae-4dcc-858d-03a318efc934]]></Field>
- <Field name="RefObjFQName" type="java.lang.String"><![CDATA[DMFLK.First Folder.Invocacion ETL_DIM_PRODUCTOS]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[DMFLK.Lanzadores.ETL_DIM_PRODUCTOS]]></Field>
  <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_FOLDER.SNP_PACKAGE]]></Field>
- <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[5.12.28]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[5.10.17]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
-		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.1960]]></Field>
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.861]]></Field>
 	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[e3a53689-036d-44b2-8a47-ed794de875b7]]></Field>
  <Field name="RefObjFQName" type="java.lang.String">null</Field>
  <Field name="RefObjFQType" type="java.lang.String">null</Field>
